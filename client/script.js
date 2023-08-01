@@ -71,7 +71,7 @@ const handleSubmit = async (e) => {
   loader(messageDiv)
 
   // get the bot's response
-  const response = await fetch('http://127.0.0.1:5000', {
+  const response = await fetch('https://codeai-6l4b.onrender.com/', {
     method: 'POST',
     headers: {
         'Content-Type': 'application/json',
