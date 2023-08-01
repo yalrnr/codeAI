@@ -2,7 +2,7 @@
 
 ## Overview
 
-ChatGPT AI clone webapp where a user can talk with the OpenAI's bot, can ask questions, informations, insights etc about anything and everything. The bot responds to the prompts/ questions asked by the user via GPT 3 model.
+ChatGPT AI clone WebApp where a user can talk with the OpenAI's bot, can ask questions, informations, insights etc about anything and everything. The bot responds to the prompts/questions asked by the user via GPT 3 model.
 
 ## App Link
 
@@ -14,13 +14,13 @@ A user can chat, ask questions, inquire informations etc which is to be replied 
 
 ## Tools / Technologies used
 
-• Frontend - Vanilla with ReactJS, Tailwind CSS
+• Frontend - Vanilla with ReactJS, CSS
 
 • Backend - NodeJS for api endpoints to hit
 
 • API - OpenAI API for fetching response from GPT 3 Model
 
-• Vercel for deploying
+• Render, Vercel for deploying
 
 ## Screenshots
 
